@@ -2,7 +2,8 @@
 
 'use strict';
 
-const customers = require("data/customers.json");
+const customers = require("./data/customers.json");
+console.log(customers);
 
 /**
  * 1. Import your lodown module using the require() method
