@@ -9,13 +9,19 @@ An exercise in problem solving in the functional idiom.
     [publishing-npm-packages](https://docs.npmjs.com/getting-started/publishing-npm-packages)
     
 
-1. From the bash terminal, run the command:
+1. **FORK** this repository on GitHub to your own GitHub account.
+
+2. From your FORK, use SSH to clone the repository into a Blank Cloud9 workspace.
+
+3. Once the Cloud9 workspace is finished initializing, from the bash terminal, run the command:
     
         npm install
 
-2. Install your lodown library by running the command and replacing `<my-user-name>` :
+4. Install your lodown library by running the command and replacing `<my-user-name>` :
     
         npm install --save lodown-<my-user-name>
+
+5. Open up `index.js` and import your lodown library using the node `require()` method.
 
 ## Solve
 
