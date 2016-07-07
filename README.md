@@ -9,7 +9,11 @@ An exercise in problem solving in the functional idiom.
     [publishing-npm-packages](https://docs.npmjs.com/getting-started/publishing-npm-packages)
     
 
-1. Install your lodown library by running the command and replacing `<my-user-name>` :
+1. From the bash terminal, run the command:
+    
+        npm install
+
+2. Install your lodown library by running the command and replacing `<my-user-name>` :
     
         npm install --save lodown-<my-user-name>
 
